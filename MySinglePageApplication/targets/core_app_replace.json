@@ -1,0 +1,10 @@
+{
+    "name": "Examples",
+    "comment": "Release with additional example plugins",
+    "applications": [
+        {
+            "contextPath": "administration",
+            "addImports": [ "mysinglepageapplication/myplugin" ]
+        }
+    ]
+}

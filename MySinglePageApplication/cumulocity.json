@@ -1,0 +1,12 @@
+{
+      "availability": "PRIVATE",
+      "contextPath": "mysinglepageapplication",
+      "key": "mysinglepageapplication-appkey",
+      "name": "mySinglePageApplication",
+      "resourcesUrl": "/",
+      "type": "HOSTED",
+        "imports": [
+            "core/c8yBranding",
+			"mysinglepageapplication/myplugin"
+        ]
+ }
